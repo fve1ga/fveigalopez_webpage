@@ -38,9 +38,9 @@ content:
     latitude: '40.18'
     longitude: '3.43'
   directions: Enter Building 1 and take the stairs to Office 1.1.D22 on Floor 1
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+ # office_hours:
+ #   - 'Monday 10:00 to 13:00'
+ #   - 'Wednesday 09:00 to 10:00'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
