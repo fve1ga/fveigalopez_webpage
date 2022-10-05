@@ -33,7 +33,7 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: false
+    show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Fernando Veiga López'
+    notice: 'Copyright © {year}, Fernando Veiga López'
     license:
       enable: true
       allow_derivatives: false
@@ -73,7 +73,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: flame
+    shape: circle
   comment:
     provider: ''
     disqus:
@@ -92,7 +92,7 @@ features:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: true
+      show_logo: false
   map:
     provider: ''
     api_key: ''
