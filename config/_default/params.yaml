@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Personal webpage with CV and active projects.'
+    twitter: 'FerrVeiga'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -33,7 +33,7 @@ header:
   navbar:
     enable: true
     align: l
-    show_logo: true
+    show_logo: false
     show_language: false
     show_day_night: true
     show_search: true
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Fernando Veiga López'
     license:
       enable: true
       allow_derivatives: false
@@ -73,7 +73,7 @@ features:
     branch: main
   avatar:
     gravatar: false
-    shape: circle
+    shape: flame
   comment:
     provider: ''
     disqus:
@@ -92,7 +92,7 @@ features:
       app_id: ''
       api_key: ''
       index_name: ''
-      show_logo: false
+      show_logo: true
   map:
     provider: ''
     api_key: ''
