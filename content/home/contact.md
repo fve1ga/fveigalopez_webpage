@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: fveiga@ing.uc3m.es
-  phone: 0034-669682186
+  phone: 0034-916248362
   address:
     street: Avenida de la Universidad 30
     city: Leganés
