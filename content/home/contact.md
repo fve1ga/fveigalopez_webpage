@@ -25,19 +25,19 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: fveiga@ing.uc3m.es
   phone: 888 888 88 88
   address:
     street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    city: Leganés
+    region: Madrid
+    postcode: '28912'
+    country: Spain
+    country_code: ESP
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Enter Building 1 and take the stairs to Office 1.1.D22 on Floor 1
   office_hours:
     - 'Monday 10:00 to 13:00'
     - 'Wednesday 09:00 to 10:00'
@@ -46,7 +46,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/FerrVeiga'
     - icon: video
       icon_pack: fas
       name: Zoom Me
