@@ -104,6 +104,7 @@ extensions:
   cms:
     branch: main
     local_backend: false
+    netlify_cms: true
   academicons:
     enable: true
 
