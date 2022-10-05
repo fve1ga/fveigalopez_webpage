@@ -26,17 +26,17 @@ content:
 
   # Contact details (edit or remove options as required)
   email: fveiga@ing.uc3m.es
-  phone: 888 888 88 88
+  phone: 0034-669682186
   address:
-    street: 450 Serra Mall
+    street: Avenida de la Universidad 30
     city: Leganés
     region: Madrid
     postcode: '28912'
     country: Spain
-    country_code: ESP
+    country_code: ES
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
+    latitude: '40.18'
+    longitude: '3.43'
   directions: Enter Building 1 and take the stairs to Office 1.1.D22 on Floor 1
   office_hours:
     - 'Monday 10:00 to 13:00'
