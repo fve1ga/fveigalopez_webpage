@@ -17,16 +17,16 @@ social:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: [https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ](https://scholar.google.com/citations?user=i2Eu9QMAAAAJ&hl=en)
+    link: https://scholar.google.com/citations?user=i2Eu9QMAAAAJ&hl=en
   - icon: researchgate
     icon_pack: fab
-    link: https://www.researchgate.net/profile/Alberto_Cuadra_Lara  
+    link: https://www.researchgate.net/profile/Fernando-Veiga-Lopez
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
   - name: Universidad Carlos III de Madrid
-    url: https://www.stanford.edu/
+    url: https://www.uc3m.es/
 education:
   courses:
     - course: PhD in Fluid Mechanics
