@@ -25,7 +25,7 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/fveigalopez/
 organizations:
-  - name: Universidad Carlos III de Madrid
+  - name: Universidad Carlos III de Madrid (uc3m)
     url: https://www.uc3m.es/
 education:
   courses:
@@ -47,10 +47,8 @@ first_name: Fernando
 email: "fveiga@ing.uc3m.es"
 ---
 
-Fernando Veiga-Lopez is a professor of 
+I have been playing with fire since 2015, when I joined the aerospace combustion group at TU Delft to carry out my MSc Thesis on hydrogen burners. Amazed by the complex physics and beauty of combustion, I moved to Madrid to study the topology and stability of gaseous laminar flames in confined environments as my PhD Thesis topic. As a result of my analyses, I may highlight the [discovery](https://physics.aps.org/articles/v13/72) of two dangerous and unknown propagation regimes for hydrogen mixtures. After my PhD, I expanded my research areas, developing simplified detonation models to estimate detonability limits for hydrogen mixtures for safety applications.
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Currently, I am working on studying hydrogen addition to natural gas, from how to include and mix hydrogen to the available pipelines to the safety assessment of these blends when burning, with my focus on flashback.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+[comment] {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
