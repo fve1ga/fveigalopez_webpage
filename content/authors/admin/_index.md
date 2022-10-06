@@ -2,7 +2,7 @@
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Green hydrogen and innovative fuels
+  - Hydrogen and innovative fuels
   - Combustion and reactive flows
   - Thermo-fluid mechanics
 social:
@@ -23,7 +23,7 @@ social:
     link: https://www.researchgate.net/profile/Fernando-Veiga-Lopez
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/fveigalopez/
 organizations:
   - name: Universidad Carlos III de Madrid
     url: https://www.uc3m.es/
@@ -47,8 +47,10 @@ first_name: Fernando
 email: "fveiga@ing.uc3m.es"
 ---
 
+Fernando Veiga-Lopez is a professor of 
+
 Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
