@@ -31,13 +31,13 @@ education:
   courses:
     - course: PhD in Fluid Mechanics
       institution: Universidad Carlos III de Madrid
-      year: 2012
-    - course: MSc in Aerospace Engineering - Flight Performance and Propulsion track
+      year: 2020
+    - course: MSc in Aerospace Engineering
       institution: TU Delft
-      year: 2009
-    - course: BSc in Aerospace Engineering - Propulsion track
+      year: 2016
+    - course: BSc in Aerospace Engineering
       institution: Universidad Politécnica de Madrid
-      year: 2008
+      year: 2014
 superuser: true
 last_name: Veiga-Lopez
 role: Assistant professor of Fluid Mechanics
