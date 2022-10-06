@@ -18,9 +18,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: [https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ](https://scholar.google.com/citations?user=i2Eu9QMAAAAJ&hl=en)
-  - icon: github
+  - icon: researchgate
     icon_pack: fab
-    link: https://github.com/fve1ga
+    link: https://www.researchgate.net/profile/Alberto_Cuadra_Lara  
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -43,8 +43,8 @@ last_name: Veiga-Lopez
 role: Assistant professor of Fluid Mechanics
 highlight_name: true
 title: Fernando Veiga López
-first_name: Alice
-email: ""
+first_name: Fernando
+email: "fveiga@ing.uc3m.es"
 ---
 
 Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
