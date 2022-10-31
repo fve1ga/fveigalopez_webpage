@@ -31,7 +31,7 @@ summary: First thermoacoustic instabilities analysis in quasi-2D channels for co
 tags:
 - Flames
 - Thermoacoustic instabilities
-featured: false
+featured: true
 
 # links:
 # - name: ""
