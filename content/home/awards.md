@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Universidad Carlos III de Madrid
     organization_url: https://www.uc3m.es
-    title: Extraordinary PhD thesis prize
+    title: 'Extraordinary PhD thesis prize'
     url: ''
   - certificate_url: https://doi.org/10.1103/APS.DFD.2018.GFM.V0018
     date_end: ''
@@ -37,15 +37,15 @@ item:
     description: ''
     organization: American Physical Society (APS)
     organization_url: https://www.aps.org
-    title: 2018 APS/DFD Milton van Dyke award
+    title: '2018 APS/DFD Milton van Dyke award'
     url: 
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  - certificate_url: upload/2018_outstanding_presentation.pdf
+    date_end: ''
+    date_start: '2018-05-25'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: The Combustion Institute
+    organization_url: https://www.combustioninstitute.org
+    title: Outstanding Student Presentation
     url: ''
 
 design:
