@@ -1,4 +1,3 @@
-
 ---
 title: "Premixed-flame oscillations in narrow channels"
 authors:
