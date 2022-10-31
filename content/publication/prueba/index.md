@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: [http://arxiv.org/pdf/1512.04133v1](https://www.researchgate.net/profile/Mario-Sanchez-Sanz/publication/329811176_Experimental_Analysis_of_Oscillatory_Premixed_Flames_in_a_Hele-Shaw_Cell_Propagating_Towards_a_Closed_End/links/5c1bc32f458515a4c7ed9b45/Experimental-Analysis-of-Oscillatory-Premixed-Flames-in-a-Hele-Shaw-Cell-Propagating-Towards-a-Closed-End.pdf)
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -49,7 +49,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: **F. Veiga-Lopez et al.**
+  caption: 'Image credit: **F. Veiga-Lopez et al.**'
   focal_point: ""
   preview_only: false
 
