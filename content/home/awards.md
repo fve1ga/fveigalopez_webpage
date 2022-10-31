@@ -28,6 +28,7 @@ item:
     date_start: '2020-12-05'
     description: ''
     organization: Universidad Carlos III de Madrid
+    organization_logo: 'uc3m'
     organization_url: https://www.uc3m.es/doctorado/premios-extraordinarios-doctorado
     title: Extraordinary PhD thesis prize
     url: ''
