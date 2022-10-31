@@ -36,7 +36,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.researchgate.net/profile/Mario-Sanchez-Sanz/publication/329811176_Experimental_Analysis_of_Oscillatory_Premixed_Flames_in_a_Hele-Shaw_Cell_Propagating_Towards_a_Closed_End/links/5c1bc32f458515a4c7ed9b45/Experimental-Analysis-of-Oscillatory-Premixed-Flames-in-a-Hele-Shaw-Cell-Propagating-Towards-a-Closed-End.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
