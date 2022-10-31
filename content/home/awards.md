@@ -28,7 +28,7 @@ item:
     date_start: '2020-12-05'
     description: ''
     organization: Universidad Carlos III de Madrid
-    organization_url: https://www.coursera.org
+    organization_url: https://www.uc3m.es/doctorado/premios-extraordinarios-doctorado
     title: Extraordinary PhD thesis prize
     url: ''
   - certificate_url: https://www.edx.org
