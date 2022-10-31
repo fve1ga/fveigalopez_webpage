@@ -25,7 +25,7 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: 'https://www.uc3m.es/inicio'
-    company_logo: ''
+    company_logo: 'uc3m'
     location: Leganés, Madrid
     date_start: '2021-01-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Predoctoral researcher
     company: Universidad Carlos III de Madrid
     company_url: 'https://www.uc3m.es/inicio'
-    company_logo: ''
+    company_logo: 'uc3m'
     location: Leganés, Madrid
     date_start: '2017-02-01'
     date_end: '2020-06-15'
