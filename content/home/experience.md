@@ -22,19 +22,46 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+    - title: Assistant professor
+    company: Universidad Carlos III de Madrid
     company_url: 'https://www.uc3m.es/inicio'
     company_logo: 'uc3m'
     location: Leganés, Madrid
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2022-02-01'
+    date_end: 'ongoing'
     description: |2-
-        Responsibilities include:
+        Research interests:
+           
+        * Hydrogen combustion
+        * Hydrogen and natural gas blends mixing and flashback
         
-        * Analysing
-        * Modelling
-        * Deploying
+  - title: Postdoctoral researcher
+    company: Institut Pprime - CNRS
+    company_url: 'https://www.uc3m.es/inicio'
+    company_logo: 'pprime'
+    location: Poitiers, France
+    date_start: '2021-02-01'
+    date_end: '2022-02-01'
+    description: |2-
+        Research interests:
+           
+        * Hydrogen detonations
+        * Chemistry effect on detonations
+        
+  - title: Postdoctoral researcher
+    company: Universidad Carlos III de Madrid
+    company_url: 'https://www.uc3m.es/inicio'
+    company_logo: 'uc3m'
+    location: Leganés, Madrid
+    date_start: '2020-06-15'
+    date_end: '2021-02-01'
+    description: |2-
+        Research interests:
+           
+        * Hydrogen combustion
+        * Flame-condensation interaction
+        
+        * Lab and theory teacher
 
   - title: Predoctoral researcher
     company: Universidad Carlos III de Madrid
@@ -43,8 +70,12 @@ experience:
     location: Leganés, Madrid
     date_start: '2017-02-01'
     date_end: '2020-06-15'
-    description: PhD student in Fluid Mechanics 
-
+    description: |2-
+        Research interests:
+           
+        * Alternative fuels combustion
+        * Flame topology and instabilities
+     
 design:
   columns: '2'
 ---
