@@ -26,7 +26,7 @@ experience:
     company: Universidad Carlos III de Madrid
     company_url: 'https://www.uc3m.es/inicio'
     company_logo: 'uc3m'
-    location: Leganés, Madrid
+    location: Madrid, España
     date_start: '2022-02-01'
     date_end: ''
     description: |2-
@@ -52,7 +52,7 @@ experience:
     company: Universidad Carlos III de Madrid
     company_url: 'https://www.uc3m.es/inicio'
     company_logo: 'uc3m'
-    location: Leganés, Madrid
+    location: Madrid, España
     date_start: '2020-06-15'
     date_end: '2021-02-01'
     description: |2-
@@ -67,7 +67,7 @@ experience:
     company: Universidad Carlos III de Madrid
     company_url: 'https://www.uc3m.es/inicio'
     company_logo: 'uc3m'
-    location: Leganés, Madrid
+    location: Madrid, España
     date_start: '2017-02-01'
     date_end: '2020-06-15'
     description: |2-
