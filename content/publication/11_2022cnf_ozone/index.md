@@ -32,7 +32,7 @@ tags:
 - Hydrogen
 - Detonations
 - Chemistry
-featured: true
+featured: false
 
 # links:
 # - name: ""
