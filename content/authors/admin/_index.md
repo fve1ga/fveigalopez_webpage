@@ -1,5 +1,5 @@
 ---
-bio: Passionate research of hydrogen combustion for safety and power generation.
+bio: Passionate researcher on hydrogen combustion for safety and power generation.
 interests:
   - Hydrogen and innovative fuels
   - Combustion and reactive flows
