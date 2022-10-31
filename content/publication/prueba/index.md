@@ -6,10 +6,9 @@ authors:
 - Eduardo Fernández Tarrazo
 - Mario Sánchez Sanz
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
 date: "2015-09-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1016/j.combustflame.2018.12.005"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
