@@ -13,15 +13,9 @@ main:
   - name: Publications
     url: '#featured'
     weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
   - name: Conferences
     url: '#talks'
     weight: 40
-  - name: Teaching
-    url: '#talks'
-    weight: 50
   - name: Contact
     url: '#contact'
     weight: 60
