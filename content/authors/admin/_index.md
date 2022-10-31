@@ -4,6 +4,7 @@ interests:
   - Hydrogen and innovative fuels
   - Combustion and reactive flows
   - Thermo-fluid mechanics
+  - Teaching (Fluid mechanics courses / around 600 hours) and tutoring (11 students)
 social:
   - icon: envelope
     icon_pack: fas
