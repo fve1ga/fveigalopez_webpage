@@ -31,13 +31,13 @@ item:
     organization_url: https://www.uc3m.es
     title: Extraordinary PhD thesis prize
     url: ''
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://doi.org/10.1103/APS.DFD.2018.GFM.V0018
     date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: 
-    title: Blockchain Fundamentals
+    date_start: '2018-11-17'
+    description: ''
+    organization: American Physical Society (APS)
+    organization_url: https://www.aps.org
+    title: 2018 APS/DFD Milton van Dyke award
     url: 
   - certificate_url: https://www.datacamp.com
     date_end: '2020-12-21'
