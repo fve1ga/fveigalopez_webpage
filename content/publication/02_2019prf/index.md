@@ -23,7 +23,7 @@ publication_types: ["2"]
 publication: "*Physical Review Fluids*"
 publication_short: "PHYS REV FLUIDS"
 
-abstract: his paper is associated with a video winner of a 2018 APS/DFD Milton van Dyke Award for work presented at the DFD Gallery of Fluid Motion. The original video is available online at the Gallery of Fluid Motion, https://doi.org/10.1103/APS.DFD.2018.GFM.V0018.
+abstract: This paper is associated with a video winner of a 2018 APS/DFD Milton van Dyke Award for work presented at the DFD Gallery of Fluid Motion. The original video is available online at the Gallery of Fluid Motion, https://doi.org/10.1103/APS.DFD.2018.GFM.V0018.
 
 # Summary. An optional shortened abstract.
 summary: Interesting video analyzing the incredible transition towards strong thermoacoustic instabilities.
