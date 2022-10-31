@@ -28,8 +28,7 @@ item:
     date_start: '2020-12-05'
     description: ''
     organization: Universidad Carlos III de Madrid
-    organization_logo: 'uc3m'
-    organization_url: https://www.uc3m.es/doctorado/premios-extraordinarios-doctorado
+    organization_url: https://www.uc3m.es
     title: Extraordinary PhD thesis prize
     url: ''
   - certificate_url: https://www.edx.org
@@ -37,7 +36,7 @@ item:
     date_start: '2021-01-01'
     description: Formulated informed blockchain models, hypotheses, and use cases.
     organization: edX
-    organization_url: https://www.edx.org
+    organization_url: 
     title: Blockchain Fundamentals
     url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   - certificate_url: https://www.datacamp.com
