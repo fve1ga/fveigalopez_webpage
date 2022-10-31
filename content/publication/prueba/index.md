@@ -24,10 +24,10 @@ publication_types: ["2"]
 publication: "*Combustion and Flame*"
 publication_short: "COMBUST FLAME"
 
-abstract: An experimental study of methane, propane and dimethyl ether (DME) premixed flames propagating in a quasi-two-dimensional Hele-Shaw cell placed horizontally is presented in this paper. The flames are ignited at the open end of the combustion chamber and propagate towards the closed end. Our experiments revealed two distinct propagation regimes depending on the equivalence ratio of the mixture as a consequence of the coupling between the heat-release rate and the acoustic waves. The primary acoustic instability induces a small-amplitude, of around 8 mm, oscillatory motion across the chamber that is observed for lean propane, lean DME, and rich methane flames. Eventually, a secondary acoustic instability emerges for sufficiently rich (lean) propane and DME (methane) flames, inducing large-amplitude oscillations in the direction of propagation of the flame. The amplitude of these oscillations can be as large as 30 mm and drastically changes the outline of the flame. The front then forms pulsating finger-shaped structures that characterize the flame propagation under the secondary acoustic instability. The experimental setup allows the recording of the flame propagation from two different points of view. The top view is used to obtain accurate quantitative information about the flame propagation, while the lateral view offered a novel three dimensional perspective of the flame that gives relevant information on the transition between the two oscillatory regimes. The influence of the geometry of the Hele-Shaw cell and of the equivalence ratio on the transition between the two acoustic-instability regimes is analyzed. In particular, we find that the transition to the secondary instability occurs for values of the equivalence ratio ϕ above (below) a critical value ϕc for propane and DME (methane) flames. In all the tested fuels, the transition to the secondary instability emerges for values of the Markstein number below a critical value. The critical Markstein number varies with the gap size h formed by the two horizontal plates that bound the Hele-Shaw cell. As h is reduced, the critical Markstein number is shifted towards larger values.
+abstract: "An experimental study of methane, propane and dimethyl ether (DME) premixed flames propagating in a quasi-two-dimensional Hele-Shaw cell placed horizontally is presented in this paper. The flames are ignited at the open end of the combustion chamber and propagate towards the closed end. Our experiments revealed two distinct propagation regimes depending on the equivalence ratio of the mixture as a consequence of the coupling between the heat-release rate and the acoustic waves. The primary acoustic instability induces a small-amplitude, of around 8 mm, oscillatory motion across the chamber that is observed for lean propane, lean DME, and rich methane flames. Eventually, a secondary acoustic instability emerges for sufficiently rich (lean) propane and DME (methane) flames, inducing large-amplitude oscillations in the direction of propagation of the flame. The amplitude of these oscillations can be as large as 30 mm and drastically changes the outline of the flame. The front then forms pulsating finger-shaped structures that characterize the flame propagation under the secondary acoustic instability. The experimental setup allows the recording of the flame propagation from two different points of view. The top view is used to obtain accurate quantitative information about the flame propagation, while the lateral view offered a novel three dimensional perspective of the flame that gives relevant information on the transition between the two oscillatory regimes. The influence of the geometry of the Hele-Shaw cell and of the equivalence ratio on the transition between the two acoustic-instability regimes is analyzed. In particular, we find that the transition to the secondary instability occurs for values of the equivalence ratio ϕ above (below) a critical value ϕc for propane and DME (methane) flames. In all the tested fuels, the transition to the secondary instability emerges for values of the Markstein number below a critical value. The critical Markstein number varies with the gap size h formed by the two horizontal plates that bound the Hele-Shaw cell. As h is reduced, the critical Markstein number is shifted towards larger values."
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Flames
@@ -37,7 +37,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: "https://www.researchgate.net/profile/Mario-Sanchez-Sanz/publication/329811176_Experimental_Analysis_of_Oscillatory_Premixed_Flames_in_a_Hele-Shaw_Cell_Propagating_Towards_a_Closed_End/links/5c1bc32f458515a4c7ed9b45/Experimental-Analysis-of-Oscillatory-Premixed-Flames-in-a-Hele-Shaw-Cell-Propagating-Towards-a-Closed-End.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -67,13 +67,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
