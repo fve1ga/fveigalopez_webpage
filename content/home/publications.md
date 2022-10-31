@@ -7,7 +7,7 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 60
 
 title: Recent Publications
 subtitle: ''
@@ -21,7 +21,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: false
+    exclude_featured: true
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
