@@ -28,7 +28,7 @@ experience:
     company_logo: 'uc3m'
     location: Leganés, Madrid
     date_start: '2022-02-01'
-    date_end: 'ongoing'
+    date_end: ''
     description: |2-
         Research interests:
            
