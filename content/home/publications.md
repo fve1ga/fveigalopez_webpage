@@ -37,4 +37,4 @@ design:
 ---
 
 
-[Quick search and filtering](./publication/).
+[Quick search and filtering](./publication/)
