@@ -19,8 +19,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Loss Prevention in the Process Industries*"
-publication_short: "J LOSS PREVENT PROC"
+publication: "*Investigación y Ciencia*"
+publication_short: "INVESTIGACIÓN Y CIENCIA"
 
 abstract: ''
 
