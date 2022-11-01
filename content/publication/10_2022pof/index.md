@@ -7,7 +7,7 @@ authors:
 author_notes:
 - ""
 date: "2022-11-01T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1063/5.0118271"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://www.researchgate.net/publication/364959242_On_the_velocity_size_and_temperature_of_gaseous_dendritic_flames'
 url_code: ''
 url_dataset: ''
 url_poster: ''
