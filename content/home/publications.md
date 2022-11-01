@@ -7,7 +7,7 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 65
 
 title: Other Journal Articles
 subtitle: ''
