@@ -30,6 +30,7 @@ image:
 
 authors:
   - admin
+  - Paloma Sánchez Guzmán
   - Cristian Camilo Mejía Botero
   - Josué Melguizo Gavilanes
   - Jorge Yañez
@@ -45,6 +46,7 @@ We aim to quickly characterize detonation, think out of the box on how to do tha
 1. Modifying the common approaches to obtain simplified chemical kinetics, by matching the steady solutions obtained for detonations with losses and detail chemistry.
 2. Studying the strong influence of low temperature chemistry on DME detonations, which could mimic cool flames but for compressible flow.
 3. Is it possible to rethink the way we characterize detonation cell sizes? What about surfaces instead of lengths? Do they follow any statistical law?
+4. Trying to improve our 1D tools by including missing ingredients to the detonation recipe. 
 
 If you are interested on these topics or have some more ideas, [contact](#contact) me!
 
