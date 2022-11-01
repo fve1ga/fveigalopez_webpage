@@ -13,7 +13,7 @@ address:
   country: Canada
 
 summary: We present the solutions that appear at low detonation speeds when considering low temperature chemistry of DME.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: 'The influence of low temperature chemistry (LTC) on the locus of steady solutions predicted by a ZND model with curvature losses and detailed kinetics was assessed using undiluted / CO2-diluted stoichiometric DME-O2 mixtures. Results show (i) the existence of an additional critical point at large velocity deficits when the LTC sub-mechanism is included in the reaction model, and (ii) a shift in the criticality from small to large velocity deficits as CO2-dilution is increased. Detailed thermo-chemical analyses revealed the importance of LTC in enabling an increased resistance to losses at large velocity deficits. LTC results in a temperature increase of ∼ 200 K at the beginning of the reaction zone that activates the intermediate and high temperature reactions, thereafter leading to the main heat release stage. Without a process that replenishes the OH radical pool at postshock temperatures below 1000 K the critical point at large velocity deficits ceases to exist.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
