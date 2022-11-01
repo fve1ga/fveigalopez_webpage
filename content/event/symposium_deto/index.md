@@ -46,7 +46,7 @@ links:
     name: 'Follow'
     url: 'https://twitter.com/Combustion_Intl'
 url_code: ''
-url_pdf: 'static/upload/Symposium2022.pdf'
+url_pdf: 'upload/Symposium2022.pdf'
 url_slides: ''
 url_video: ''
 
