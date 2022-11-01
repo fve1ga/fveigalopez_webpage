@@ -41,7 +41,7 @@ image:
   focal_point: Right
 
 links:
-  - icon: ''
+  - icon: 'twitter'
     icon_pack: fab
     name: ''
     url: ''
