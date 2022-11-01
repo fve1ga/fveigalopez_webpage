@@ -37,4 +37,4 @@ design:
 ---
 
 
-[Quick search and filtering](./events/)
+[Quick search and filtering](./event/)
