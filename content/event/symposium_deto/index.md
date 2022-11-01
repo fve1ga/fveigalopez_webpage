@@ -43,8 +43,8 @@ image:
 links:
   - icon: 'twitter'
     icon_pack: fab
-    name: ''
-    url: ''
+    name: 'Follow'
+    url: 'https://twitter.com/Combustion_Intl'
 url_code: ''
 url_pdf: './Symposium2022.pdf'
 url_slides: ''
