@@ -3,7 +3,7 @@ title: On our journey to characterize hydrogen flashback
 subtitle: Preliminary results with methane and propane flames are beautiful, moving towards hydrogen flames soon.
 
 # Summary for listings and search engines
-summary: Preliminary results on our results with methane and propane are beautiful, moving towards hydrogen flames soon.
+summary: Preliminary results on our results with methane and propane are beautiful, moving towards hydrogen soon.
 
 # Link this post with a project
 projects: []
