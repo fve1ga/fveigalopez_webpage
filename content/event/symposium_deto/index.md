@@ -1,5 +1,5 @@
 ---
-title: Influence of lowtemperaturechemistry onsteady detonations withcurvature losses
+title: Influence of low temperature chemistry on steady detonations with curvature losses
 
 event: 39th International Symposium on Combustion
 event_url: http://www.combustionsymposia.org/2022/
@@ -41,12 +41,12 @@ image:
   focal_point: Right
 
 links:
-  - icon: twitter
+  - icon: ''
     icon_pack: fab
     name: ''
     url: ''
 url_code: ''
-url_pdf: 'Symposium2022.pdf'
+url_pdf: './Symposium2022.pdf'
 url_slides: ''
 url_video: ''
 
