@@ -1,6 +1,6 @@
 ---
 title: On our journey to characterize hydrogen flashback
-subtitle: Preliminary results on our results with methane and propane are beautiful, moving towards hydrogen flames soon.
+subtitle: Preliminary results with methane and propane flames are beautiful, moving towards hydrogen flames soon.
 
 # Summary for listings and search engines
 summary: Preliminary results on our results with methane and propane are beautiful, moving towards hydrogen flames soon.
