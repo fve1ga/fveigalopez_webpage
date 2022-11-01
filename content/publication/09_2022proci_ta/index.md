@@ -51,7 +51,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption: 'Image credit: **F. Veiga-Lopez et al.**'
-  focal_point: ""
+  focal_point: Right
   preview_only: false
 
 # Associated Projects (optional).
