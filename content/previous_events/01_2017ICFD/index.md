@@ -1,5 +1,5 @@
 ---
-title: "La sigilosa combustión del hidrógeno"
+title: "Experimental analysis of premixed flames propagating in a Hele-Shaw cell"
 authors:
 - admin
 - Daniel Martínez Ruiz
