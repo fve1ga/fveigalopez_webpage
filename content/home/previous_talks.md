@@ -16,7 +16,7 @@ content:
   # Filter on criteria
   filters:
     folders:
-      - publication
+      - event
     tag: ''
     category: ''
     publication_type: ''
