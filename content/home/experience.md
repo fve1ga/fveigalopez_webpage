@@ -37,7 +37,7 @@ experience:
         
   - title: Postdoctoral researcher
     company: Institut Pprime - CNRS
-    company_url: 'https://www.uc3m.es/inicio'
+    company_url: 'https://pprime.fr/la-recherche/fluides-thermique-combustion/detonique-deto/?cn-reloaded=1'
     company_logo: 'pprime'
     location: Poitiers, France
     date_start: '2021-02-01'
@@ -60,8 +60,6 @@ experience:
            
         * Hydrogen combustion
         * Flame-condensation interaction
-        
-        * Lab and theory teacher
 
   - title: Predoctoral researcher
     company: Universidad Carlos III de Madrid
