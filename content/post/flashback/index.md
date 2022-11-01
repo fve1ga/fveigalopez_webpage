@@ -40,10 +40,18 @@ tags:
 
 ## Overview
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+Hydrogen is so fast and reactive that some people may consider it dangerous. Flashback happens when a flame propagates downstream the desired anchoring points and can create hazardous and unwanted situations. With our work, we want to soften the transition towards a greener society by analyzing one of the most common flame instabilities by:
 
+1. Analyzing when does **flashback** happen given fixed burner geometry and conditions. 
+2. Whenever it happens, quantify how fast the flame propagates and how dangerous it may become.
+
+Pablo will focus on this research during her MSc Thesis.
+
+If you are interested on these topics or have some more ideas, [contact](#contact) me!
+
+Keep posted for news!
+
+F. Veiga-López
 
 ## License
 
