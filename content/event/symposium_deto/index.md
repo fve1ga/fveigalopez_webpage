@@ -4,7 +4,7 @@ title: Influence of low temperature chemistry on steady detonations with curvatu
 event: 39th International Symposium on Combustion
 event_url: http://www.combustionsymposia.org/2022/
 
-location: Vancouver, Canada
+location: Vancouver Convention Centre
 address:
   street: 999 Canada Place
   city: Vancouver
@@ -32,6 +32,7 @@ authors:
 
 tags:
 - Detonations
+- Chemistry
 
 # Is this a featured talk? (true/false)
 featured: false
