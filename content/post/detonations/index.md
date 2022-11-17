@@ -3,7 +3,7 @@ title: Move forward on detonation modeling
 subtitle: We are focusing our energy on characterizing hydrogen and DME detonations following simple models and innovative approaches. 
 
 # Summary for listings and search engines
-summary: We are focusing our energy on characterizing hydrogen and DME detonations following simple models and innovative approaches. 
+summary: We are focusing our energy on characterizing hydrogen and DME detonations using simple models and following innovative approaches. 
 
 # Link this post with a project
 projects: []
