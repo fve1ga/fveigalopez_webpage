@@ -25,7 +25,7 @@ publication_short: "J LOSS PREVENT PROC"
 abstract: 'The minimum detonation diameter for methane (CH4) / hydrogen (H2)-air mixtures is numerically evaluated to assess detonation risks in cooktops designed to work with natural gas. A one-dimensional mathematical model that considers heat and friction losses for detonations propagating in pipes is used for that purpose. The initial conditions are selected to emulate the operation of a commercial cooktop working with different CH4 /H2 blends. Results show that for H2 content in the blend higher than 45 %, a conventional cooktop air-fuel mixer may pose a detonation hazard since the minimum detonation diameters predicted by the model are smaller than the diameter of the mixing tube (i.e., dmin < dmixer). Additionally, the individual effect of equivalence ratio, Φ, and hydrogen content, % H2, in the fuel blend are evaluated separately. An increased risk of detonation is present for (i) CH4 /H2-air mixtures with Φ → 1, and (ii) higher % H2 content. Finally, the effect of the natural gas composition was evaluated, showing that 100 % CH4 is not a good surrogate for this fuel since there is a considerable decrease in dmin and in the admissible H2 content in the blend when the real composition is considered.'
 
 # Summary. An optional shortened abstract.
-summary: Analysis of ozone addition on curved detonations.
+summary: Analysis of hydrogen addition on detonability limits of future cooktop burners.
 
 tags:
 - Hydrogen
