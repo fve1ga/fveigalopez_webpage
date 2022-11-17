@@ -41,7 +41,7 @@ tags:
 Correctly characterizing methane/hydrogen blends seems to be capital to progressively bring hydrogen to our daily activities, such as cooking our favorite meal. We aim to contribute by:
 
 1. Analyzing **Bunsen flames** to measure flame speeds, analyze their topology and control their stability. María will spearhead this research during her MSc Thesis.
-2. Counterflow flames can also provide information of interest. We want to film how the cell formation on the almost planar flame changes when we include tiny (or big, who knows) amounts of hydrogen. Zeyad will take care of this part to fulfill his BSc studies.
+2. **Counterflow flames** can also provide information of interest. We want to film how the cell formation on the almost planar flame changes when we include tiny (or big, who knows) amounts of hydrogen. Zeyad will take care of this part to fulfill his BSc studies.
 
 If you are interested on these topics or have some more ideas, [contact](#contact) me!
 
