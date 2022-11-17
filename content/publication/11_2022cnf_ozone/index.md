@@ -7,8 +7,8 @@ authors:
 - Rémy Mével
 author_notes:
 - ""
-date: "2022-11-01T00:00:00Z"
-doi: ""
+date: "2023-01-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.combustflame.2022.112479"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
