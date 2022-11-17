@@ -32,7 +32,7 @@ abstract: 'The problem of the steady propagation of detonation waves with fricti
  radical pool at low postshock temperature.'
 
 # Summary. An optional shortened abstract.
-summary: Annalysis of the chemistry effect on hydrogen detonations.
+summary: Analysis of the chemistry effect on hydrogen detonations.
 
 tags:
 - Hydrogen
