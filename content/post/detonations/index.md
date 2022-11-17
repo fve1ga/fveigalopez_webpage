@@ -30,7 +30,7 @@ image:
 
 authors:
   - admin
-  - Paloma Sánchez Guzmán
+  - Ángela Martín Milán
   - Cristian Camilo Mejía Botero
   - Josué Melguizo Gavilanes
   - Jorge Yañez
